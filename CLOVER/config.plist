@@ -300,7 +300,7 @@
 		<key>Audio</key>
 		<dict>
 			<key>Inject</key>
-			<string>6</string>
+			<integer>6</integer>
 			<key>ResetHDA</key>
 			<true/>
 		</dict>
@@ -772,31 +772,31 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>08/08/2017</string>
+		<string>06/26/2018</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MP61.88Z.0120.B00.1708080652</string>
+		<string>IM183.88Z.0161.B00.1806260901</string>
 		<key>Board-ID</key>
-		<string>Mac-F60DEB81FF30ACF6</string>
+		<string>Mac-BE088AF8C5EB4FA2</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>F5K342902GUDMT3UE</string>
+		<string>C02706200GUF5031H</string>
 		<key>BoardType</key>
-		<integer>11</integer>
+		<integer>10</integer>
 		<key>BoardVersion</key>
-		<string>MacPro6,1</string>
+		<string>1.0</string>
 		<key>ChassisAssetTag</key>
-		<string>Pro-Enclosure</string>
+		<string>iMac-Aluminum</string>
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
-		<string>0x02</string>
+		<string>0x09</string>
 		<key>Family</key>
-		<string>MacPro</string>
+		<string>iMac</string>
 		<key>FirmwareFeatures</key>
-		<string>0xE80FE136</string>
+		<string>0xFC0FE137</string>
 		<key>FirmwareFeaturesMask</key>
 		<string>0xFF1FFF3F</string>
 		<key>LocationInChassis</key>
@@ -806,11 +806,13 @@
 		<key>Mobile</key>
 		<false/>
 		<key>PlatformFeature</key>
-		<string>0x04</string>
+		<string>0x00</string>
 		<key>ProductName</key>
-		<string>MacPro6,1</string>
+		<string>iMac18,3</string>
 		<key>SerialNumber</key>
-		<string>F5KLL150F9VM</string>
+		<string>C02T701RJ1GJ</string>
+		<key>SmUUID</key>
+		<string>F48546ED-619A-4821-9ABC-D6D83DD42EB8</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
